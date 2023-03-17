@@ -1,5 +1,5 @@
 # Code_challenge
-Write code  your after
+
 
 inputGrade-variable for the input Garde
 
