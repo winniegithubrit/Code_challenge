@@ -19,7 +19,7 @@ let finalOutput
 
 
 
-finalOutput //assigne your final output to this variable
+finalOutput='assign your final output to this variable'
 document.getElementById('marks-id').append(finalOutput)
 
 })
@@ -42,7 +42,7 @@ speed.addEventListener('click', (e)=>{
 
 
 
-finalOutput //assigne your final output to this variable
+finalOutput='assign your final output to this variable'
     document.getElementById('speed-id').append(finalOutput)
 
 })
@@ -63,7 +63,7 @@ let finalOutput
 
 
 
-finalOutput //assigne your final output to this variable
+finalOutput ='assign your final output to this variable'
 document.getElementById('salary-id').append(finalOutput)
         
 })
