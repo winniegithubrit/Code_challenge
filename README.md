@@ -71,6 +71,3 @@ YOU ARE DONE WITH YOUR FIRST CODE CHALLANGE.
 AUTHOR:
 This project was created by WINNIE JOMO(winniegithubrit@github.com)
 
-LICENSE:
-This project is licensed under 
-
