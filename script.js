@@ -10,15 +10,12 @@ console.log(inputGrade)
 let finalOutput
 // write Code For the Code challenge
 let marks = prompt("Please enter the student's marks (between 0 and 100):");
-// Convert marks to a number
-marks = Number(marks);
-
 // Check if marks are within the valid range
 if (marks < 0 || marks > 100) {
   console.log(finalOutput("Invalid marks entered. Please enter a value between 0 and 100."));
 } else {
   // assigning grades according to the marks gotten
-  let grade;
+  
   if (marks > 79) {
     finalOutput=('Grade is A');
   } else if (marks >= 60 && marks <= 79) {
@@ -30,7 +27,7 @@ if (marks < 0 || marks > 100) {
   } else {
     finalOutput=('Grade is E');
   }
-    grade = finalOutput
+    
   // the FinalOutput  
   console.log(`The student's grade is ${finalOutput}.`);
   
